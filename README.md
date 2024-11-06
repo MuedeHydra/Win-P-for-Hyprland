@@ -11,3 +11,8 @@ for example:
 $mainMod = SUPER
 bind = $mainMod, P, exec, ~/.config/hypr/tools/monitor.py
 ```
+
+### Sccrenshots
+<img scr="img/monitor_selection.png" alt="monitor_selection">
+
+<img scr="img/monitor_operation.png" alt="monitor_operation">
