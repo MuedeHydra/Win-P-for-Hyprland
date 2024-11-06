@@ -2,7 +2,7 @@
 
 This is a short Python script to control your monitors.
 
-### Installation
+## Installation
 Download the python file and make it executable: `sudo chmod +x <you path>/monitor.py`.
 Add a bind to your `hyprland.conf` file.
 
@@ -18,7 +18,7 @@ The default launcher for the script is `tofi`, if you are using wofi or another 
 launcher: str = "wofi -i --dmenu"
 ```
 
-### Screenshots
+## Screenshots
 ![monitor_selection](img/monitor_selection.png)
 
 ![monitor_operation](img/monitor_operation.png)
